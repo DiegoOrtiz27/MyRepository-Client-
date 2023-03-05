@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyRepository-Client-/static/css/main.069c04a6.css",
+    "main.js": "/MyRepository-Client-/static/js/main.17f92989.js",
+    "static/js/787.fb771931.chunk.js": "/MyRepository-Client-/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/MyRepository-Client-/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/MyRepository-Client-/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/blue-gradients.jpg": "/MyRepository-Client-/static/media/blue-gradients.fb3b410e742effb0e6a6.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/MyRepository-Client-/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/MyRepository-Client-/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/MyRepository-Client-/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/MyRepository-Client-/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/MyRepository-Client-/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/MyRepository-Client-/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/MyRepository-Client-/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/revicons.eot": "/MyRepository-Client-/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MyRepository-Client-/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/coding.svg": "/MyRepository-Client-/static/media/coding.cb0095b246126b27c5ffb5ad7cfd4907.svg",
+    "static/media/revicons.woff": "/MyRepository-Client-/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/content.svg": "/MyRepository-Client-/static/media/content.18deb2e95bae35d1460776e9d0756273.svg",
+    "static/media/logo.svg": "/MyRepository-Client-/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/MyRepository-Client-/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/MyRepository-Client-/index.html",
+    "static/media/nav-icon1.svg": "/MyRepository-Client-/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/MyRepository-Client-/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.069c04a6.css.map": "/MyRepository-Client-/static/css/main.069c04a6.css.map",
+    "main.17f92989.js.map": "/MyRepository-Client-/static/js/main.17f92989.js.map",
+    "787.fb771931.chunk.js.map": "/MyRepository-Client-/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.069c04a6.css",
+    "static/js/main.17f92989.js"
+  ]
+}
